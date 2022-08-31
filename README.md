@@ -1,8 +1,6 @@
 <h1> Desafio proposto pelo curso JAVA DEVELOPER h1>
 
-
-    💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
-
+O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 
 
 <h2> 👣 Passo-a-Passo</h2>
